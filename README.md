@@ -2,9 +2,11 @@
 Ссылки
 
 ## Подсветка в bash
+Источник https://imbicile.pp.ru/podsvetka-v-bash/ .
+
 Установка
 
-```
+```bash
     # Задаем приглашение для пользователя и опеределение рута
     wget https://raw.githubusercontent.com/imbicile/shell_colors/master/shell_color
     chmod +x shell_color 
