@@ -1,7 +1,4 @@
-# library
-Ссылки
-
-## Подсветка в bash
+# Подсветка в bash
 Источник https://imbicile.pp.ru/podsvetka-v-bash/ .
 
 Установка
