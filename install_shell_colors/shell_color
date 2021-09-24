@@ -1,0 +1,10 @@
+#!/bin/bash
+cd ~
+dpkg -S nano | grep "\.nanorc$" | awk '{print ("include " $2)}' > ~/.nanorc
+wget -O ~/.bashrc https://raw.githubusercontent.com/imbicile/shell_colors/master/.bashrc
+wget -O ~/.dircolors https://raw.githubusercontent.com/imbicile/shell_colors/master/.dircolors
+echo Copy to root
+sudo cp -v .bashrc .nanorc .dircolors /root/
+echo
+echo Copy to all
+sudo cp -v .bashrc .nanorc .dircolors /etc/skel/
