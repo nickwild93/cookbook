@@ -5,6 +5,6 @@
 3. [iptables](https://github.com/nickwild93/cookbook/tree/main/iptables)
 4. [TorrServer](https://github.com/nickwild93/cookbook/tree/main/TorrServer)
 5. [Драйвер для NVIDIA GeForce 8600 GT](https://raw.githubusercontent.com/nickwild93/cookbook/main/nvidia_linux.sh)
-6. 
+6. [FFmpeg](https://github.com/nickwild93/cookbook/blob/main/ffmpeg.md)
 ____
 [:arrow_up:Оглавление](#Оглавление)
