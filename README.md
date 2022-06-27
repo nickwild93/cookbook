@@ -7,5 +7,6 @@
 5. [Драйвер для NVIDIA GeForce 8600 GT](https://raw.githubusercontent.com/nickwild93/cookbook/main/nvidia_linux.sh)
 6. [FFmpeg](https://github.com/nickwild93/cookbook/blob/main/ffmpeg.md)
 7. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+8. [Не работает кириллица и заглавные буквы в PowerShell](https://github.com/nickwild93/cookbook/blob/main/PSReadLine.md)
 ____
 [:arrow_up:Оглавление](#Оглавление)
