@@ -10,5 +10,6 @@
 8. [Не работает кириллица и заглавные буквы в PowerShell](https://github.com/nickwild93/cookbook/blob/main/PSReadLine.md)
 9. [Termux setup storage](https://wiki.termux.com/wiki/Termux-setup-storage)
 10. [Установка yt-dlp на Termux](https://github.com/rofrol/termux-yt-dlp)
+11. [Редактор PDF](https://github.com/pdfarranger/pdfarranger)
 ____
 [:arrow_up:Оглавление](#Оглавление)
