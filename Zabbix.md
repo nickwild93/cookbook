@@ -59,7 +59,11 @@ systemctl status zabbix-agent
 apt install  ufw
 
 ufw allow 80/tcp
+
 ufw allow 443/tcp
+
 ufw allow 10050/tcp
+
 ufw allow 10051/tcp
+
 ufw reload
