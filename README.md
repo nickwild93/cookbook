@@ -12,5 +12,6 @@
 10. [Установка yt-dlp на Termux](https://github.com/rofrol/termux-yt-dlp)
 11. [Редактор PDF](https://github.com/pdfarranger/pdfarranger)
 12. [Установка Zabbix 6.0 Debian 11](https://github.com/nickwild93/cookbook/blob/main/Zabbix.md)
+13. [Python для сетевых инженеров](https://github.com/pyneng/all-pyneng-slides)
 ____
 [:arrow_up:Оглавление](#Оглавление)
