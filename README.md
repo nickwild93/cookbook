@@ -13,5 +13,6 @@
 11. [Редактор PDF](https://github.com/pdfarranger/pdfarranger)
 12. [Установка Zabbix 6.0 Debian 11](https://github.com/nickwild93/cookbook/blob/main/Zabbix.md)
 13. [Python для сетевых инженеров](https://github.com/pyneng/all-pyneng-slides)
+    [Читать](https://pyneng.readthedocs.io/ru/latest/)
 ____
 [:arrow_up:Оглавление](#Оглавление)
