@@ -1,5 +1,5 @@
 Cписок всех профилей WiFi CMD:
-```
+```cmd
 netsh wlan show profile
 ```
 Пароли:
