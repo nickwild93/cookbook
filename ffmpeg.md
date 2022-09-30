@@ -4,14 +4,14 @@
 `ffmpeg -i input-video.avi -vn -acodec copy output-audio.aac `
 
 ## Обрезка видео
-чч:мм:сс.мс
+чч:мм:сс.мс<br>
 `ffmpeg -ss 00:14:00 -i input.mp4 -to 00:28:00 result.mp4`
 
 ## Склейка видео
-Содержимое list.txt:
-`file 'input1.mp4'`
-`file 'input2.mp4'`
-Склейка:
+Содержимое list.txt:<br>
+`file 'input1.mp4'`<br>
+`file 'input2.mp4'`<br>
+Склейка:<br>
 `ffmpeg -f concat -i list.txt -c copy output.mp4`
 
 ## Converting Audio into Different Formats / Sample Rates
