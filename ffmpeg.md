@@ -9,7 +9,7 @@
 
 ## Склейка видео
 Содержимое list.txt:<br>
-`file 'input1.mp4'
+`file 'input1.mp4'<br>
 file 'input2.mp4'`<br>
 Склейка:<br>
 `ffmpeg -f concat -i list.txt -c copy output.mp4`
