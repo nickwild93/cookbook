@@ -16,5 +16,6 @@
     [Читать](https://pyneng.readthedocs.io/ru/latest/)
 14. [Пароль Wi-Fi](https://github.com/nickwild93/cookbook/blob/main/WiFi.md)
 15. [Прошивка Arduino nano для grbl 1.1h LaserAxe](https://github.com/nickwild93/cookbook/blob/main/!!!grbl_1.1h_LaserAxe.zip)
+16. [RustDesk](https://github.com/rustdesk/rustdesk)
 ____
 [:arrow_up:Оглавление](#Оглавление)
