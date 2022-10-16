@@ -1,5 +1,5 @@
 #!/bin/bash
-wget https://github.com/YouROK/TorrServer/releases/download/MatriX.106/TorrServer-linux-amd64
+wget https://github.com/YouROK/TorrServer/releases/download/MatriX.117/TorrServer-linux-amd64
 mkdir /opt/torrserver
 mv TorrServer-linux-amd64 /opt/torrserver
 chmod +x /opt/torrserver/TorrServer-linux-amd64
