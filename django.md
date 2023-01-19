@@ -1,30 +1,36 @@
 Создание окружения
-```shell
+```bash
  python.exe -m venv venv
 ```
+
 Запуск окружения
- ```shell
+ ```bash
   .\venv\Scripts\activate
  ```
- Установка Django
- ```shell
+
+Установка Django
+ ```bash
   pip install django
  ```
- Создание проекта
- ```shell
+
+Создание проекта
+ ```bash
   django-admin startproject <Название_проекта>
  ```
- Создание задач
- ```shell
+
+Создание задач
+ ```bash
  cd <Название_проекта>
  django-admin.exe startapp tasks
 ```
- Миграция проекта
- ```shell
+
+Миграция проекта
+ ```bash
   py.exe .\manage.py migrate
  ```
- Создаем суперпользователя для БД
- ```shell
+
+Создаем суперпользователя для БД
+ ```bash
  python.exe .\manage.py createsuperuser
  Username: <Пользователь>
  Email address: <Не обязательно> 
@@ -33,7 +39,17 @@
  This password is too common.
  Bypass password validation and create user anyway? [y/N]: y
 ```
+
 Запуск сервера
-```shell
+```bash
  python.exe .\manage.py runserver
+```
+
+Стандартизация проекта, создаем файл requirements.txt и добавляем в него все необходимые библиотеки (например: django==4.1.5). Устанавлием библтотеки
+```bash
+ pip install -r .\requirements.txt 
+```
+
+```bash
+
 ```
