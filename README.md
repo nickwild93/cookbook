@@ -20,5 +20,6 @@
 17. [Установка GNS3 – 2.2.11 в Hyper-V](https://blog.altuninvv.ru/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D1%81%D0%B5%D1%82%D1%8C/gns3/22-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-gns3-%E2%80%93-2-2-11-%D0%B2-hyper-v)
 18. [Подключаем GNS3 к локальной сети и интернету](https://blog.altuninvv.ru/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D1%81%D0%B5%D1%82%D1%8C/gns3/27-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D0%B5%D0%BC-gns3-%D0%BA-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%81%D0%B5%D1%82%D0%B8-%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83)
 19. [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+20. [Firefox Decrypt](https://github.com/unode/firefox_decrypt)
 ____
 [:arrow_up:Оглавление](#Оглавление)
